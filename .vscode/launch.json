@@ -1,0 +1,12 @@
+{
+    "configurations": [
+      {
+        "type": "java",
+        "request": "launch",
+        "name": "Launch Java App",
+        "mainClass": "com.example.Main",
+        "vmArgs": "--add-opens java.base/java.lang=ALL-UNNAMED --add-opens=jdk.compiler/com.sun.tools.javac.ClassWriter=ALL-UNNAMED"
+      }
+    ]
+  }
+  

@@ -1,0 +1,17 @@
+/home/user/Documents/devStuff/Spring-Boot-Automation-Framework/src/main/java/com/auto/framework/constants/Constants.java
+/home/user/Documents/devStuff/Spring-Boot-Automation-Framework/src/main/java/com/auto/framework/actions/ExplicitWait.java
+/home/user/Documents/devStuff/Spring-Boot-Automation-Framework/src/main/java/com/auto/framework/SpringAutoFrameworkApplication.java
+/home/user/Documents/devStuff/Spring-Boot-Automation-Framework/src/main/java/com/auto/framework/actions/UtilityClass.java
+/home/user/Documents/devStuff/Spring-Boot-Automation-Framework/src/main/java/com/auto/framework/config/WebDriverConfig.java
+/home/user/Documents/devStuff/Spring-Boot-Automation-Framework/src/main/java/com/auto/framework/driverscope/DriverScopeConfig.java
+/home/user/Documents/devStuff/Spring-Boot-Automation-Framework/src/main/java/com/auto/framework/driverscope/DriverScope.java
+/home/user/Documents/devStuff/Spring-Boot-Automation-Framework/src/main/java/com/auto/framework/listeners/TestListener.java
+/home/user/Documents/devStuff/Spring-Boot-Automation-Framework/src/main/java/com/auto/framework/actions/JavaScriptActions.java
+/home/user/Documents/devStuff/Spring-Boot-Automation-Framework/src/main/java/com/auto/framework/interfaces/IExplicitWait.java
+/home/user/Documents/devStuff/Spring-Boot-Automation-Framework/src/main/java/com/auto/framework/interfaces/IJavaScriptActions.java
+/home/user/Documents/devStuff/Spring-Boot-Automation-Framework/src/main/java/com/auto/framework/actions/ActionsBaseClass.java
+/home/user/Documents/devStuff/Spring-Boot-Automation-Framework/src/main/java/com/auto/framework/actions/MasterDriver.java
+/home/user/Documents/devStuff/Spring-Boot-Automation-Framework/src/main/java/com/auto/framework/interfaces/IUIElements.java
+/home/user/Documents/devStuff/Spring-Boot-Automation-Framework/src/main/java/com/auto/framework/actions/UIElements.java
+/home/user/Documents/devStuff/Spring-Boot-Automation-Framework/src/main/java/com/auto/framework/driverscope/DriverScopePostProcessor.java
+/home/user/Documents/devStuff/Spring-Boot-Automation-Framework/src/main/java/com/auto/framework/config/MyProperties.java
