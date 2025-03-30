@@ -97,7 +97,7 @@ public class WebDriverConfig {
 	@Scope("driverscope")
 	public WebDriver getFirefoxDriver(){
 		FirefoxOptions options = new FirefoxOptions();
-		options.addArguments("--headless");
+		// options.addArguments("--headless");
 		WebDriverManager.firefoxdriver().setup();
 		return new FirefoxDriver(options);	}
 
